@@ -1,0 +1,3 @@
+./ltdis.sh static
+cat static.ltdis.strings.txt
+
